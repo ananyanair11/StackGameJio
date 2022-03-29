@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3D1D03C1-433F-F6A0-BB55-070504460853}</ProjectGuid>
+    <ProjectGuid>{775B4653-0E70-B3D4-019D-E0044ABC73D4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -304,28 +304,28 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/2019.4.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Assets/JMRSDK/Core/Plugins/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Assets/JMRSDK/Core/Plugins/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="JMRSDK">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Assets/JMRSDK/Core/Scripts/JMRSDK.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Assets/JMRSDK/Core/Scripts/JMRSDK.dll</HintPath>
  </Reference>
  <Reference Include="JMRSDKUI">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Assets/JMRSDK/UI/Scripts/JMRSDKUI.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Assets/JMRSDK/UI/Scripts/JMRSDKUI.dll</HintPath>
  </Reference>
  <Reference Include="log4netPlastic">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/PackageCache/com.unity.collab-proxy@1.8.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/PackageCache/com.unity.collab-proxy@1.8.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/PackageCache/com.unity.collab-proxy@1.8.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/PackageCache/com.unity.collab-proxy@1.8.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/PackageCache/com.unity.collab-proxy@1.8.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/PackageCache/com.unity.collab-proxy@1.8.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/PackageCache/com.unity.collab-proxy@1.8.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/PackageCache/com.unity.collab-proxy@1.8.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/2019.4.30f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -685,48 +685,48 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/2019.4.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/Ananya/Desktop/JioMRStackGame-main (1)/JioMRStackGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/Ananya/Desktop/Github Uploads/StackGameJio/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{01522367-AB35-0AF1-6D66-A0420BC34B20}</Project>
+      <Project>{071F723A-38B1-C457-DB09-1C0994F19133}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

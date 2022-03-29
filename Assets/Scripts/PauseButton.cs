@@ -24,6 +24,7 @@ public class PauseButton : MonoBehaviour, IFn1Handler
 
     public void togglePause()
     {
+        print("pressed");
         if (Time.timeScale == 0f)
         {
             Time.timeScale = 1f;

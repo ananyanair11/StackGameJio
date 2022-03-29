@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/startgame.unity
+- path: Assets/Scenes/PerfectOne.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
